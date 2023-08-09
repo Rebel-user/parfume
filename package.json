@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run --browser chrome"
+  },
+  "keywords": [
+    "cucumber",
+    "cypress",
+    "javascript",
+    "gherkin"
+  ],
+  "devDependencies": {
+    "cypress": "^12.14.0"
+  }
+}
